@@ -13,7 +13,7 @@ import java.util.List;
 @Service
 public class ClienteService {
 
-    private static final String CLIENTES_URL = "https://rgr3viiqdl8sikgv.public.blob.vercel-storage.com/produtos-mnboX5IPl6VgG390FECTKqHsD9SkLS.json";
+    private static final String CLIENTES_URL = "https://rgr3viiqdl8sikgv.public.blob.vercel-storage.com/clientes-Vz1U6aR3GTsjb3W8BRJhcNKmA81pVh.json";
 
     @Autowired
     private RestTemplate restTemplate;
